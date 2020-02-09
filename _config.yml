@@ -1,26 +1,26 @@
 # ---------------- #
 #   Main Configs   #
 # ---------------- #
-baseurl:
-url: https://mazhuang.org
+baseurl: https://github.com/duweismile.github.io
+url:
 date_format: "ordinal"
-title: 码志
-subtitle: "打码改变人生"
-description: "马壮的个人博客"
-keywords: 码志, Zhuang Ma, mzlogin, mazhuang
-timezone: Asia/Shanghai
+title: 嘟嘟熊
+subtitle: "代码改变人生"
+description: "嘟嘟熊的个人博客"
+keywords: 嘟嘟熊, DuDuXiong
+timezone: Asia/BeiJing
 encoding: "utf-8"
-side_bar_repo_limit: 5
+side_bar_repo_limit: 4
 
 # ---------------- #
 #      Author      #
 # ---------------- #
-author: Zhuang Ma
+author: 嘟嘟熊
 organization: 
 organization_url: 
-github_username: mzlogin
-location: Wuhan, China
-email: chumpma@gmail.com
+github_username: duweismile
+location: Beijing, China
+email: xiongansmile@163.com
 
 # ---------------- #
 #    Navigation    #
@@ -81,7 +81,7 @@ collections:
         output: true
         permalink: /wiki/:path/
 
-repository: mzlogin/mzlogin.github.io
+repository: duweismile/duweismile.github.io
 
 # ---------------- #
 #      Comments    #
@@ -92,7 +92,7 @@ comments_provider: gitalk
 # !!!Important!!! Please modify infos below to yours
 # https://disqus.com
 disqus:
-    username: 
+    username:
 # https://imsun.net/posts/gitment-introduction/
 gitment:
     owner: mzlogin
@@ -102,10 +102,10 @@ gitment:
         client_secret: b42a4178e5fd4a7cf63189ef4b1453b05c375709
 # https://github.com/gitalk/gitalk#install
 gitalk:
-    owner: mzlogin
-    repo: blog-comments
-    clientID: d2e1cbbd298958076462
-    clientSecret: b42a4178e5fd4a7cf63189ef4b1453b05c375709
+    owner: duweismile
+    repo: jeklly_blog_comment
+    clientID: 544ada39424971746636
+    clientSecret: 8eff3c1970ce5536ae3bf37b09cc5c1c0ad90a4f
 # 在使用其它评论组件时可点击显示 Disqus
 lazy_load_disqus : false
 
@@ -121,5 +121,5 @@ simple_jekyll_search:
 # ---------------- #
 #    Analytics     #
 # ---------------- #
-google:
-    analytics_id: UA-80669434-1
+# google:
+  # analytics_id: UA-80669434-1

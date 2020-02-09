@@ -18,7 +18,8 @@
 
 **[在线预览 &rarr;](https://mazhuang.org)**
 
-![screenshot home](https://mazhuang.org/assets/images/screenshots/home.png)
+<!-- ![screenshot home](https://github.com/duweismile/duweismile.github.io/assets/images/screenshots/home.png) -->
+![screenshot home](https://github.com/duweismile/duweismile.github.io/blob/master/assets/images/screenshots/home.png?raw=true)
 
 ## Fork 指南
 
