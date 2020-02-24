@@ -20,7 +20,7 @@ keywords: python, 消息队列
 pip install pika==0.11.0
 ```
 
-**此时还会有一些问题，如果按照网上大部分的教程的话，会报以下错误**
+此时还会有一些问题，如果按照网上大部分的教程的话，会报以下错误
 ```
 exchange_declare() got an unexpected keyword argument 'type'
 ```
