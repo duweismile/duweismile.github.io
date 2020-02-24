@@ -77,6 +77,7 @@ Fork 本项目之后，还需要做一些事情才能让你的页面「正确」
 ## 致谢
 
 本博客外完全从观 [DONGChuan](https://github.com/mzlogin/mzlogin.github.io) fork而来，非常感谢马壮提供如此精美的博客，谢谢！
+也非常欢迎大家从我这fork本博客的代码，如果有什么问题可以通过qq或邮箱联系我，邮箱1692265900@qq.com
 
 [1]: https://github.com/mzlogin/chinese-copywriting-guidelines
 [2]: https://help.github.com/articles/setting-up-your-pages-site-locally-with-jekyll/
