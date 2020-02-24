@@ -12,7 +12,7 @@ permalink: /about/
 
 本博客模板完全从码志(https://mazhuang.org/)fork而来，
 
-由于不喜欢csdn等博满是广告屏幕博客，因此利用github的pages搭建次博客
+由于不喜欢csdn等博满是广告博客，因此利用github的pages搭建次博客
 
 非常感谢码志提供了如此精美的博客系统，博客界面在此基础上无任何改动，真的非常感谢
 
